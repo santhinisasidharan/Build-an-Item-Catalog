@@ -6,6 +6,7 @@ This website is made as a part of project 4 of Udacity full stack nanodegree pro
 - Vagrant
 - Virtualbox
 - Google developer account
+ Follow [these instructions to install the virtual machine](https://classroom.udacity.com/nanodegrees/nd004/parts/8d3e23e1-9ab6-47eb-b4f3-d5dc7ef27bf0/modules/bc51d967-cb21-46f4-90ea-caf73439dc59/lessons/5475ecd6-cfdb-4418-85a2-f2583074c08d/concepts/14c72fe3-e3fe-4959-9c4b-467cf5b7c3a0).We're using tools called Vagrant and VirtualBox to install and manage the VM. This will give you the PostgreSQL database and support software needed for this project.
 
 ## How to run the application?
 
